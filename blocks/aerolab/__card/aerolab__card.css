@@ -1,0 +1,23 @@
+.aerolab__card{
+  box-shadow: 5px 20px 40px grey;
+  padding: 40px;
+}
+
+@media (min-width: 768px){
+  .aerolab__card{
+    
+  }
+}
+
+@media (min-width: 1024px){
+  .aerolab__card{
+
+  }
+}
+
+@media (min-width: 1280px){
+  .aerolab__card{
+    width:calc(100% - 296px);
+    padding: 244px 40px 60px;
+  }
+}
